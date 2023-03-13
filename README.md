@@ -1,4 +1,4 @@
-# SoftUni
-Courses Exercises
-Programming Basics with JavaScript 
+# SoftUni 
+*Programming Basics with JavaScript *
+- Course Exercises
 
